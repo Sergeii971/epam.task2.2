@@ -1,0 +1,189 @@
+06.09.2020 10:49:16 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+06.09.2020 10:49:46 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 15:44:59 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 15:48:36 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 15:49:49 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 15:52:41 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:40:17 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:40:43 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:42:20 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:43:10 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:43:42 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:44:45 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:45:32 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:46:47 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:47:52 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:48:26 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:49:10 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:49:53 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:50:23 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:51:11 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:51:44 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:52:27 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:55:19 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:56:40 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 16:58:27 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:00:42 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:01:22 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:05:22 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:05:58 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:07:12 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:08:07 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:08:31 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:09:08 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:09:36 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 17:11:00 [main] INFO  com.verbovskiy.task2.reader.TextReader - file was successfully read!
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:26:36 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:27:43 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:02 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:03 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:41 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
+12.09.2020 21:29:42 [main] ERROR com.verbovskiy.task2.composite.impl.CharacterComponent - Impossible to get children component
